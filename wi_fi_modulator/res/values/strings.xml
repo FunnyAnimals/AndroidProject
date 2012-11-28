@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Wi_fi_modulatorActivity!</string>
+    <string name="app_name">Wi_fi_modulator</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Забавный рисунок</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="dialog_tittle">количество игроков</string>    
+	<string name="two_players">два игрока</string>
+	<string name="three_players">три игрока</string>
+	<string name="for_players">четыре игрока</string>
+	<string name="five_players">пять игроков</string>
+
+	<string name="button_back_text">отменить</string>
+</resources>

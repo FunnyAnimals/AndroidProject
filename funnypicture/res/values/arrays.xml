@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="choose">
+    <item>@string/two_players</item>
+    <item>@string/three_players</item>
+    <item>@string/for_players</item>
+    <item>@string/five_players</item>
+</array>
+</resources>
